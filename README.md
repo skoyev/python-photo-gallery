@@ -1,7 +1,8 @@
 # Django-WebApp       <img alt="GitHub" src="https://img.shields.io/github/license/smahesh29/Django-WebApp">
-This project was done by me as a assignment for an internship.
 
-<h2>Assignment Problem Statement:</h2>
+This is Photo Gallery Web Project, which allows to manage your photo was developed using Python/Django.
+
+<h2>Requirements:</h2>
 
 <h4>Part 1:</h4>
 <ol>
